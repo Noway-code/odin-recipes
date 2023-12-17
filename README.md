@@ -9,3 +9,5 @@ Welcome to the Odin Project Recipes Page! This project is designed to help me pr
 - Create a main index page with links to various recipes.
 - Emphasis on strengthening HTML skills.
 - Aesthetic improvements with CSS will be tackled in future iterations.
+
+https://noway-code.github.io/odin-recipes/
